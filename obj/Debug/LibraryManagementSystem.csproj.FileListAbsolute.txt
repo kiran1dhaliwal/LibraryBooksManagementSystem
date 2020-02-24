@@ -1,0 +1,19 @@
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Manukau Institute of Technology\Projects\Applied Data Structure\Assignment\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

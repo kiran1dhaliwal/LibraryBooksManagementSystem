@@ -1,0 +1,6 @@
+1234,Garry Singh,Applied Data Structures,Oxford University Press,2018,Computer Science
+1212,John Trevolta:Ewan Tempero,Mathematics for Computing,Cambridge University Press,2016,Computer Science
+3452,Reza Shahmiri,UX/UI Design,MIT Press,2017,Software Development
+5895,Sayan Ray,Networking,MIT Press, 2015,Networking
+8956,Dil M:Raj Kher,Applied Mathematics,Weily,2000,Mathematics
+4475,Zia Bashir,Algebra,Pearson,2008,Mathematics
